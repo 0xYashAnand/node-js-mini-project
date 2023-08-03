@@ -1,7 +1,7 @@
 # node-js-mini-project
 This repository contains a fun and simple Node.js mini-project that utilizes popular npm packages like "sillyname" and "superheroes" to generate random and quirky names. 
 
-## 1 Name Generator
+## 1. Name Generator
 The Name Generator is designed to provide users with unique and amusing combinations of names, making it an entertaining tool for various purposes.
 
 Key Features:
